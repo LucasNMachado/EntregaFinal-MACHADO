@@ -1,0 +1,22 @@
+
+@import "secundarios/variables";
+
+
+header{
+    background-color: $main-color;
+    margin: $main-size;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    h1{
+        color: goldenrod;
+    text-align: center;
+    margin: 0.4rem;
+    .container fluid {
+        background-color: crimson;
+    }
+    }
+    
+}
+
+

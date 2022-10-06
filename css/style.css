@@ -1,0 +1,12 @@
+header {
+  background-color: beige;
+  margin: 3rem;
+  padding: 2rem;
+  display: flex;
+  justify-content: center; }
+  header h1 {
+    color: goldenrod;
+    text-align: center;
+    margin: 0.4rem; }
+    header h1 .container fluid {
+      background-color: crimson; }
