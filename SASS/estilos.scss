@@ -1,22 +1,26 @@
 
-@import "secundarios/variables";
+
+@import "partials/estiloalquiler";
+@import "partials/estilocontacto";
+@import "partials/estiloempresa";
+@import "partials/estiloservicios";
+@import "partials/estiloventa";
 
 
-header{
-    background-color: $main-color;
-    margin: $main-size;
+
+header {
+    background-color: beige;
+    margin: 3rem;
     padding: 2rem;
     display: flex;
-    justify-content: center;
-    h1{
-        color: goldenrod;
-    text-align: center;
-    margin: 0.4rem;
-    .container fluid {
-        background-color: crimson;
-    }
-    }
-    
-}
+    justify-content: center; }
+    header h1 {
+      color: goldenrod;
+      text-align: center;
+      margin: 0.4rem; }
+      header h1 .container fluid {
+        background-color: crimson; }
+
+footer { background-color: blue;}
 
 
